@@ -1,4 +1,4 @@
 ﻿  Punkt.cpp
-d:\punkt.cpp(53): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+c:\users\student\desktop\pg\punkt.cpp(53): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
   Punkt.vcxproj -> C:\Users\student\Desktop\Bartosz\PG_1\Debug\Punkt.exe
   Punkt.vcxproj -> C:\Users\student\Desktop\Bartosz\PG_1\Debug\Punkt.pdb (Full PDB)

@@ -147,10 +147,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="D:\Punkt.h" />
+    <ClInclude Include="..\..\..\PG\Punkt.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="D:\Punkt.cpp" />
+    <ClCompile Include="..\..\..\PG\Punkt.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="wspolne.props" />
